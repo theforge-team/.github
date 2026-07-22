@@ -1,6 +1,6 @@
 <div align="center">
 
-# TheForge
+# ⚒️ TheForge
 
 ### The engineering team behind **Qalam Holding**'s media network.
 

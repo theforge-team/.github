@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/305452727?v=4" width="130" alt="TheForge" />
-
 # TheForge
 
 ### The engineering team behind **Qalam Holding**'s media network.
